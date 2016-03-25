@@ -1,4 +1,4 @@
 # mobiuscape
-möbiu<i>scape/i>
+möbiu<i>scape</i>
 
 hello!
